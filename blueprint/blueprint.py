@@ -1,4 +1,4 @@
-# helloworld.py
+# blueprint.py
 class Blueprint:
 
     @staticmethod
