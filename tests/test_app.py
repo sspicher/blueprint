@@ -1,5 +1,5 @@
 # test_app.py
-from .context import helloworld
+from .context import blueprint
 
 
 def test_app(capsys, example_fixture):
